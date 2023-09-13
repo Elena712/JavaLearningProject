@@ -41,7 +41,7 @@ public class VariablesAndComments {
         numberOfOwners = 0;
         id =  54661651654L;
         operationSystemVersion = 16.16F;
-        price = 34550.5;
+        price = 34550.55;
 
         System.out.println("The phone is charged " + isCharged);
         System.out.println("The phone price is " + price);
