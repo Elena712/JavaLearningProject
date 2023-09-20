@@ -1,4 +1,4 @@
-package md.Tekwill.gitworkflow;
+package md.tekwillacademy.gitworkflow;
 
 public class GitWorkFlow {
 
