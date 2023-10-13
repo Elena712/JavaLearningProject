@@ -27,6 +27,7 @@ public class Customer {
         }
 
 
+        String name1 = name;
         public void setName (String name){
             this.name = name;
 
@@ -47,6 +48,12 @@ public class Customer {
                     ", age = '" + age +
                     '}';
         }
+    }
+
+    public String getAge() {
+    }
+
+    public String getName() {
     }
 }
 
